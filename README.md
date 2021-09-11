@@ -4,7 +4,7 @@ Trata-se de uma aplicação cujo objetivo é cadastrar pacientes, agendar visita
 
 ##Integrante
 
-*Gabriel Jorge Soalheiro Só
+* Gabriel Jorge Soalheiro Só
 
 ## Orientador
 
