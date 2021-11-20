@@ -21,12 +21,12 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 |EU COMO...     | QUERO/PRECISO ...                                   |PARA ...                                     |
 |---------------|-----------------------------------------------------|---------------------------------------------|
-|Sheldon Cooper |Agendar para ver meu tio no asilo | Que eu evite filas e estresse |
+|Sheldon Cooper |Agendar para ver meu tio no asilo                | Que eu evite filas e estresse |
 |Sheldon Cooper | Saber como está meu pai, quando eu não puder ir | Que não tenha que ficar sempre tendo que correr atrás de pessoas para saber |
-|Sheldon Cooper | Encontrar páginas sobre meus conhecidos | Ter acesso a informações desses tipos de conteúdo quando eu tiver curiosidade |
-|Scott Pilgrim  | Acesso aos relatórios dos funcionarios | Saber como está meu familiar no dia-dia  |
-|Scott Pilgrim  | Cadastrar um usuario | Ter acesso ao conteúdo |
-|Ned Leeds      | Entender sobre o funcionamento | Não ter medo de deixar um familiar na mãos de estranhos |
+|Scott Pilgrim  | Encontrar páginas sobre meus conhecidos         | Ter acesso a informações desses tipos de conteúdo quando eu tiver curiosidade |
+|Scott Pilgrim  | Acesso aos relatórios dos funcionarios          | Saber como está meu familiar no dia-dia  |
+|Ned Leeds      | Cadastrar um usuario                            | Ter acesso ao conteúdo |
+|Ned Leeds      | Entender sobre o funcionamento                  | Não ter medo de deixar um familiar na mãos de estranhos |
 
 
 ## Requisitos
@@ -41,7 +41,7 @@ Requsitos  funcionais
 |RF - 03 | o site deve permitir que o funcionario cadastre funcionarios e tenha acesso às restrições | (alta)|
 |RF - 04 | o site deve permitir que o usuário comunique com os funcionarios | (alta)|
 |RF - 05 | | (médio) |
-|RF - 06 |  | (alto) |
+|RF - 06 | | (alto)  |
 |RF - 07 | | (baixa) |
 
 
