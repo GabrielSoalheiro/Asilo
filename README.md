@@ -4,6 +4,7 @@ Trata-se de uma aplicação cujo objetivo é cadastrar pacientes, agendar visita
 
 ## Integrante
 
+*lucas Fernado Romero  Santos
 * Gabriel Jorge Soalheiro Só
 
 ## Orientador
