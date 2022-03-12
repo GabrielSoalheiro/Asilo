@@ -1,4 +1,4 @@
-# Asilo
+#Sistema Asilo
 
 Trata-se de uma aplicação cujo objetivo é cadastrar pacientes, agendar visitas, fazer doações e fazer relatório diariamente.
 
@@ -8,7 +8,7 @@ Trata-se de uma aplicação cujo objetivo é cadastrar pacientes, agendar visita
 
 ## Orientador
 
-*
+* Proferssora Maria Inês 
 
 ## Instruções de utilização
 
