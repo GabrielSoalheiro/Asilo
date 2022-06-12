@@ -1,8 +1,12 @@
 # Introdução
 
 
-A ideia do projeto é voltada para a comunidade e consiste na possibilidade de os usuários poderem acompanhar a vida de seus pacientes, familiares, amigos, conhecidos ou qualquer pessoa que estiver no asilo.
-Atualmente não temos alguns sites derivados. Dessarte, como publico alvo temos pessoas e queremos que estas compartilhem para ajudar a se manter sempre atualizados e proximo de seus familiares.
+As organização não governamentais (ONGs) atuam no desenvolvimento social e demo- crático das comunidades. Auxiliando os necessitados e oferecendo cuidados aos que devem ser pro tegidos, assim, fornecem ajuda desvinculando-se do capital privado e do governo. Dentre os setores de atuação das ONGs destacam-se os os relacionados a problemas de desigualdade social e atendimento às populações esquecidas pelo Estado. 
+
+No Brasil, a população idosa é uma vitima do descaso do Estado. A expectativa de vida aumentou consideravelmente e assim se reflete no crescimento da população idosa. No entanto, apesar dos benefícios do aumento da expectativa de vida, os idosos têm sofrido com a falta de consideração social, e o estado não oferece cuidados. O Estado que, apesar de em tese, ser o agente responsável pela proteção social, principalmente pelos mais vulneráveis, na prática, não assume de fato e de modo satisfatório a sua responsabilidade relativa às questões de proteção social (RODRIGUES E SOARES, 2006).  
+
+Como resultado, cresce a necessidade de criação de  ILPIs (Instituição de Longa Permanência para Idosos). O termo é atualmente usado para definir uma instituição que possui natureza asilar. Esse novo termo ainda é desconhecido da maioria da sociedade e pouco conhecido na mídia, mesmo entre os profissionais dessas áreas (NUNES, 2014). 
+
 
 
 ## Problema
@@ -13,24 +17,20 @@ O problema central que a aplicação pretende resolver,  consiste no fato de nã
 
 Objetivo:
 
-É de suma importância relatar que o nosso objetivo é gerar uma grande variedade de informações para uma comunidade que se interessa pelo bem estar das pessoas, permitindo um grande compartilhamento de informações e simplicidade. Buscamos desenvolver um website de qualidade e excelência com ótimas ferramentas de navegação, possibilitando ao usuário encontrar os filmes mais assistidos, bem avaliados e diversas outras informações para dar a ele uma melhor experiência gerando facilidade e buscar atingir a satisfação do mesmo.
+A instituição Sagrado Coração de Jesus, enfrenta problemas de natureza administrativa, uma vez que, relacionados a gestão, divulgaçao e comunicação estão envolvidos no processo de funcionamento da instituição. Nessa ONG, as pessoas recebem visitas diárias dentro de um horário específico, porém, os administradores exigem que os visitantes se desloquem até a ONG para marcar a visita presencialmente. Essa situação além de gerar um duplo desconforto, para o visitante que precisa se deslocar de casa duas vezes: uma para marcar a visita e outra, para realiza-la. Outro problema é que os familiares ligam constantemente buscando informações dos pacientes e como essas informações já são registradas, os colaboradores não tem algo para disponibilizar informações diarias para os familiares. Portanto, torna-se difícil administrar sem que haja um sistema que atue de maneira mais rápida e eficiente, para faciliar a vida dos familiares.
 
 Objetivos específicos:
 
--  Buscamos primeiramente criar um website com uma grande variedade de informações para a comunidade.
-
-- Gerar facilidade na navegação para atingir a satisfação do usuário.
-
-- Facilitar a vida dos funcionarios.
-
-- Facilitar a vida dos familiares, amigos e afins. 
+Sendo assim, o objetivo do estudo é formular um  plano do site  que contemple ações para dar acessibilidade para os colaboradores, evitando frustações de receber ligações pois eles sempre estão aterefados. A ideia do site é armazenar a papelada dos colaboradores, e assim facilitando a vida dos familiares disponibilizando informações diaria dos pacientes. 
 
 ## Justificativa
 
-A motivação de escolher essa aplicação foi para ajudar a comunidade em geral, e assim ajudar as pessoas a escolher sempre o melhor dia para visitar ou para um funcionario evitar conflitos.
+A criação de um web-site para uma organização com fins não lucrativos pode trazer inumeros benefícios, como a melhoria na comunicação, divulgação e melhoria na gestão de processos administrativos. Esses meios têm grande voz em relação à sociedade, então o objetivo principal será ser transparente para os familiares com as ações realizadas nas ONGs, com a transparência do seu funcionamento. Sendo assim, evita desperdícios de tempo e frustrações.       
 
-A razão da qual definimos nossos objetivos especificos, consiste no fato de fazermos parte também do publico da aplicação e termos a necessidade de organizar melhor os nossos tempo.
+Por outro lado, o plano secundário é implementar um incentivo à sociedade, colocando um foco para atender todos, com uma consciência para incentivar às doações e visitas levando alegria para os pacientes.
 
 ## Público-Alvo
 
-Essa aplicação é destinada ao público que busca procurar sempre está junto de pessoas que estão no asilo e novidades.
+No Brasil, a população idosa é uma vitima do descaso do Estado. A expectativa de vida aumentou consideravelmente e assim se reflete no crescimento da população idosa. No entanto, apesar dos benefícios do aumento da expectativa de vida, os idosos têm sofrido com a falta de consideração social, e o estado não oferece cuidados. O Estado que, apesar de em tese, ser o agente responsável pela proteção social, principalmente pelos mais vulneráveis, na prática, não assume de fato e de modo satisfatório a sua responsabilidade relativa às questões de proteção social (RODRIGUES E SOARES, 2006).  
+
+Como resultado, cresce a necessidade de criação de  ILPIs (Instituição de Longa Permanência para Idosos). O termo é atualmente usado para definir uma instituição que possui natureza asilar. Esse novo termo ainda é desconhecido da maioria da sociedade e pouco conhecido na mídia, mesmo entre os profissionais dessas áreas (NUNES, 2014). 
